@@ -1,1 +1,1 @@
-its jusat a normal cli app testing .
+it just a normal cli app testing .
